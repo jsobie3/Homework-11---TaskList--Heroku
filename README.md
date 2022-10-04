@@ -2,6 +2,22 @@
 
 ## Your Task
 
+
+## Main SC
+![image](https://user-images.githubusercontent.com/109123352/193725224-c2b68cc7-009a-4bcd-8b65-163c66b6e194.png)
+
+
+## App SC
+
+![image](https://user-images.githubusercontent.com/109123352/193725289-80267f16-8d7b-484e-8257-083b1a4752b5.png)
+
+
+## Heroku Link
+
+https://whispering-plateau-08619.herokuapp.com/
+
+
+
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
